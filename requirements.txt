@@ -1,5 +1,4 @@
 ﻿Flask
-matplotlib==3.6.2
 numpy==1.23.5
 requests==2.26.0
 requests-file==1.5.1
