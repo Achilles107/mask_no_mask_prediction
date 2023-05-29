@@ -39,7 +39,7 @@ class MaskNoMaskClassifier(nn.Module):
 def get_model():
     path = 'mask_pred_weights.pth'
     model = MaskNoMaskClassifier()
-    model.load_state_dict(torch.load(path))
+    model.load_state_dict(torch.load(path, map_location=torch.device('cpu')))
     model.eval()
     return model
 
