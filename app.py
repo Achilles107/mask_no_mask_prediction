@@ -23,4 +23,4 @@ def hello_world():
             return render_template('index.html')
 
 if __name__ == '__main__':
-    app.run(debug=True, port=os.getenv('PORT', 3000))
+    app.run(debug=True, port=os.getenv('PORT', 3000), threaded=True)
