@@ -1,6 +1,5 @@
 ﻿Flask
 numpy==1.20.2
-requests==1.2.0
 torch==1.13.1
 torchaudio==0.13.1
 torchvision==0.14.1
