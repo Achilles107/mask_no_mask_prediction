@@ -42,6 +42,7 @@ To test the model on new images, you can add the image paths to the `test_image`
 ## Model Architecture
 
 The model architecture used in this code consists of several convolutional and fully connected layers. It takes an input image and outputs a prediction indicating whether the person is wearing a mask or not. The architecture details can be found in the notebook.
+![architecture](arch.jpg)
 
 ## Results
 
