@@ -47,6 +47,8 @@ The model architecture used in this code consists of several convolutional and f
 ## Results
 
 The notebook includes code to train the model, evaluate its performance on a validation set, and make predictions on test images. It also plots the training and validation accuracy and loss over epochs.
+![accuracy](train_graph.png)
+![loss](loss_graph.png)
 
 ## License
 
