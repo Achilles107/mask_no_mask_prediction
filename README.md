@@ -17,7 +17,9 @@ You can install the dependencies using pip:
 ## Usage
 
 1. Clone the repository:
-  git clone https://github.com/your-username/mask-detection-model.git
+
+  git clone https://github.com/Achilles107/mask_no_mask_prediction.git
+  
   cd mask_no_mask_prediction
 
 
